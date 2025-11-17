@@ -81,5 +81,3 @@ You will learn:
 **Rahul Rawat**  
 MCA Student — Chandigarh University  
 Intern (Training Program) — Unlox Academy  
-MCA Student — Chandigarh University  
-Intern — Unlox Academy  
