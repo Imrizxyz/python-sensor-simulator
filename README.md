@@ -1,5 +1,12 @@
 # 📡 IoT Sensor Data Simulation using Python
 
+## 📌 Getting Started
+1. Clone this repo  
+2. Open `sensor_simulator.ipynb` in Google Colab  
+3. Run all cells in order  
+4. Download the CSV file using Colab’s file browser
+
+## Description
 This project simulates real-time IoT sensor data for:
 - 🌡 Temperature  
 - 💧 Humidity  
